@@ -22,5 +22,7 @@ PHP version 5.3 or higher (Note: It’s highly recommended to upgrade if you are
 * Optionally, set the path to the source folder (by default, it will zip the current directory).
 * Click "Create Zip" to create the archive.
 
+## Screenshot
+
 ![Screenshot](https://github.com/Nelsonelo/unzipper/blob/70629c3f20b9457f0b776cbc11748352de25ef1a/Screenshot.png)
 
